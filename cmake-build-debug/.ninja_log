@@ -1,0 +1,4 @@
+# ninja log v5
+3	513	6886498158221337	CMakeFiles/StaticLibTest.dir/library.cpp.obj	743903394ec92634
+514	600	6886498159101377	libStaticLibTest.a	de9fa6a335ebe99e
+1	192	6886534344619438	build.ninja	f9bdc1428b573e51
